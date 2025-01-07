@@ -16,7 +16,7 @@ The repository is organized into directories corresponding to different topics o
 - **tema4/**: Projects related to Topic 4.
   - *Message_Encryption_Program/*: A program that encrypts and decrypts messages using a specific algorithm.
 
-- **tema5/**: Placeholder for projects related to Topic 5.
+- **tema5/**: How to work with binary and text files / streams.
 
 - **tema6/**: Projects related to Topic 6.
   - *Binary_file_reader/*: A program that reads and processes binary files.
